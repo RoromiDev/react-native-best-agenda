@@ -1,0 +1,24 @@
+{
+  "name": "react-native-best-agenda",
+  "version": "0.0.1",
+  "description": "New agenda component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoromiDev/react-native-best-agenda.git"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "react-native"
+  ],
+  "author": "Romain Deguerville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoromiDev/react-native-best-agenda/issues"
+  },
+  "homepage": "https://github.com/RoromiDev/react-native-best-agenda#readme"
+}
